@@ -21,7 +21,7 @@ The dashboard includes the following key visual elements:
 
 Together, these visuals facilitate quick identification of transaction trends, outliers, and regions with significant ATM load, enabling data-driven operational and strategic decisions.
 
-![Dashboard Screenshot](assets/Overview.png)
+![Dashboard Screenshot](Overview.png)
 _A snapshot of the main dashboard page._
 
 ### 📝 Key Findings
