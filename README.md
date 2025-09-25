@@ -3,7 +3,8 @@
 
 This repository contains an end-to-end data analysis project on ATM Transactions Analysis. The goal of this project was to analyze key business metrics and visualize the findings through an interactive Power BI dashboard.
 
-  
+![Home Screenshot](Home.png)
+_A snapshot of the Home page._
 
 ### 📊Project Overview
 This Power BI dashboard provides an interactive and comprehensive analysis of ATM card transactions across various cities and states in India. It enables users to explore transaction behaviors, spending patterns, and ATM usage density by region. The dashboard utilizes multiple visual elements to offer meaningful insights about where ATM card transactions are most frequent, the volume of transactions by geography, and areas experiencing heavy load on ATM machines. These insights support better operational planning and resource allocation for banks and financial institutions.
@@ -40,11 +41,15 @@ Based on the data analysis, here are the core insights derived from the project:
 
 * **Insight 6** : At the bank level, even though the majority of ATMs are profitable, a small fraction of ATMs contribute disproportionately to overall profits — a classic Pareto effect (80/20 rule).
 
+  ![Detail Screenshot](Detail.png)
+_A snapshot of the Detail page._
+
 ### 📂 Repository Structure
 
 * `Atm_Data.xlsx`: The raw data source used for this analysis.
 * `Atm_Txn_Project/`: This folder contains the Power BI project files (.pbip) which are optimized for version control.
 * `assets/`: This folder holds all the images and screenshots used in this `README`.
+
 
 ### 🛠️ Tools & Technologies
 
