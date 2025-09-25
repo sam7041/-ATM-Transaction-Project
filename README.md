@@ -41,7 +41,7 @@ Based on the data analysis, here are the core insights derived from the project:
 
 * **Insight 6** : At the bank level, even though the majority of ATMs are profitable, a small fraction of ATMs contribute disproportionately to overall profits — a classic Pareto effect (80/20 rule).
 
-  ![Detail Screenshot](Detail.png)
+  ![Detail Screenshot](Details.png)
 _A snapshot of the Detail page._
 
 ### 📂 Repository Structure
